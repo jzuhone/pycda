@@ -1,1 +1,1 @@
-from pycda.obscat import ChandraObscat
+from pycda.obscat import fetch_ocat_data
